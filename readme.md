@@ -1,3 +1,24 @@
+# Martian Robots Solution
+
+To run the solution execute:
+
+```shell
+node main.js
+```
+
+To change the input update the file `input.txt`
+
+## TODO
+
+- Valid input file content.
+
+## Concerns
+
+- I probably should have used typescript. It would have been quite useful.
+- I wonder if using POO would have been more organized.
+
+<br/>
+
 # Martian Robots
 
 A coding challenge.
