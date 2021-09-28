@@ -1,9 +1,23 @@
 # Martian Robots Solution
 
+## Setup
+
+After clone the repository go to `martian-robots` folder and execute:
+
+```shell
+npm install
+```
+
 To run the solution execute:
 
 ```shell
 node main.js
+```
+
+To run the tests execute:
+
+```shell
+npm test
 ```
 
 To change the input update the file `input.txt`
