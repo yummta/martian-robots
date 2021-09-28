@@ -2,6 +2,8 @@
 
 ## Setup
 
+Is required to have `node` installed. This solution was implemented using `v12.13.1` version.
+
 After clone the repository go to `martian-robots` folder and execute:
 
 ```shell
